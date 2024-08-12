@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, I am 0v0z (Pronounced - "a-vos")
 
-<!--
-**0v0z/0v0z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Languages</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,js,lua,mysql,py,ts,html,css" /><br>
+</div>
 
-Here are some ideas to get you started:
+<br/>
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="Right">Tools</h2>
+<br/>
+<div align="Right">
+    <img src="https://skillicons.dev/icons?i=blender,vscode,visualstudio,pycharm,rider,clion,robloxstudio,unity,linux" /><br>
+</div>
+<br/>
+<hr/>
+
+<h2 align="Center">About</h2>
+<br/>
+<div align="Center">
+    <p>Switzerland, Zurich 🗺️📍</p>
+    <p></p>
+    <p>Coder Maine </p>
+</div>
+<br/>
+<hr/>
