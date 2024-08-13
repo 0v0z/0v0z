@@ -12,7 +12,7 @@
 <h2 align="Right">Tools</h2>
 <br/>
 <div align="Right">
-    <img src="https://skillicons.dev/icons?i=blender,vscode,visualstudio,pycharm,rider,clion,robloxstudio,unity,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,vscode,visualstudio,pycharm,rider,clion,unity,linux,robloxstudio" /><br>
 </div>
 <br/>
 <hr/>
